@@ -1,0 +1,33 @@
+/*1982-AMD-AM8086*/
+body{
+    background-color: gray;
+}
+h1{
+    color: black;
+    text-decoration: underline;
+    font-size: 50px;
+}
+h2{
+    font-size: 35px;
+    text-decoration: underline;
+}
+#Hist{
+    font-size: 16px;
+}
+#image_2{
+    border-collapse: 10px solid red;
+}
+#list_2{
+    font-size: 25px;
+}
+h3{
+    font-size: 35px;
+    text-decoration: underline;
+}
+ul{
+    font-size: 25px;
+}
+#descr{
+    margin-top: -280px;
+    margin-left: 500px;
+}

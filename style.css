@@ -1,0 +1,42 @@
+/*style.css*/
+body{
+    background-color: black;
+}
+#tete_page_1{
+    color: #000000;
+    font-size: 50px;
+    text-align: center;
+    background-color: blue;
+    box-shadow: 5px 5px 5px blueviolet;
+}
+#amd_1{
+    margin-top: 150px;
+    margin-left: 375px;
+    margin-right: 1350px;
+    font-size: 35px;
+}
+#intel_1{
+    margin-top: -100px;
+    margin-right: 1350px;
+    margin-left: 1350px;
+    font-size: 40px;
+}
+#nvidia_1{
+    margin-top: 325px;
+    margin-right: 1350px;
+    margin-left: 870px;
+    font-size: 40px;
+}
+h2{
+    color: rgb(255, 2, 2);
+}
+h3{
+    color: rgb(38, 199, 253);
+}
+h4{
+    color: rgb(60, 255, 0);
+}
+
+
+
+

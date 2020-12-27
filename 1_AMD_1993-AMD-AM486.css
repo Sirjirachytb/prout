@@ -1,0 +1,31 @@
+/*1993-AMD-AM486*/
+body{
+    background-color: grey;
+}
+#Titre{
+    color: black;
+    text-decoration: underline;
+    font-size: 25px;
+}
+h2{
+    font-size: 35px;
+    text-decoration: underline;
+}
+#Histoire{
+    font-size: 15px;
+}
+#image_5{
+    border-collapse: 10px solid red;
+}
+#desrc{
+    margin-top: 20px;
+}
+h3{
+    font-size: 35px;
+    text-decoration: underline;
+}
+#descr{
+    margin-top: -285px;
+    margin-left: 450px;
+    font-size: 25px;
+}

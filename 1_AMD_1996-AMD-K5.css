@@ -1,0 +1,25 @@
+/*1996-AMD-K5*/
+body{
+    background-color: gray;
+}
+#Titre{
+    color: black;
+    text-decoration: underline;
+    font-size: 50px;
+}
+h2{
+    font-size: 35px;
+    text-decoration: underline;
+}
+#Histoire{
+    font-size: 15px;
+}
+h3{
+    font-size: 25px;
+    text-decoration: underline;
+}
+#desrc{
+    font-size: 25px;
+    margin-left: 380px;
+    margin-top: -290px;
+}

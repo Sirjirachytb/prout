@@ -1,0 +1,30 @@
+/*1991-AMD-AM386*/
+body{
+    background-color: gray;
+}
+#Titre{
+    color: black;
+    text-decoration: underline;
+    font-size: 25px;
+}
+h2{
+    font-size: 35px;
+    text-decoration: underline;
+}
+#Histoire{
+    font-size: 15px;
+}
+#Image_4{
+    border-collapse: 10px solid red;
+}
+#list_4{
+    font-size: 25px;
+}
+h3{
+    font-size: 35px;
+    text-decoration: underline;
+}
+#desrc{
+    margin-top: -280px;
+    margin-left: 330px;
+}

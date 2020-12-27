@@ -1,0 +1,39 @@
+/*1995-AMD-AM5x86*/
+body{
+    background-color: gray;
+}
+#Titre{
+    color: black;
+    text-decoration: underline;
+    font-size: 25px;
+}
+h2{
+    font-size: 35px;
+    text-decoration: underline;
+}
+#Histoire{
+    font-size: 15px;
+}
+h3{
+    font-size: 25px;
+    text-decoration: underline;
+}
+h4{
+    font-size: 25px;
+    text-decoration: underline;
+    margin-left: 420px;
+    margin-top: -250px;
+}
+#Soket_2{
+    margin-left: 420px;
+    margin-top: -15px;
+}
+h5{
+    font-size: 35px;
+    text-decoration: underline;
+}
+#desrc{
+    margin-top: -325px;
+    margin-left: 360px;
+    font-size: 25px;
+}

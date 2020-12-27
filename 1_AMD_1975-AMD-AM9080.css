@@ -1,0 +1,30 @@
+/*1_AMD_1975-AMD-AM9080*/
+body{
+    background-color: gray;
+}
+#titre{
+    color: black;
+    text-decoration: underline;
+    font-size: 25px;
+}
+h2{
+    font-size: 35px;
+    text-decoration: underline;
+}
+#Histoire{
+    font-size: 15px;
+}
+#imag_AMD_PR_1{
+    border-image-source: 10px solid red;
+}
+h3{
+    font-size: 35px;
+    text-decoration: underline;
+}
+#list_1{
+    font-size: 25px;
+}
+#descr{
+    margin-top: -280px;
+    margin-left: 550px;
+}
